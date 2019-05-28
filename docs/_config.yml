@@ -1,5 +1,5 @@
 title: BigPatent
-logo: 
+logo: /assets/img/bigpatentlogo.svg
 description: Dataset for Abstractive and Coherent Summarization
 show_downloads: false
 theme: jekyll-theme-minimal

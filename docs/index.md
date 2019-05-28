@@ -1,8 +1,6 @@
 ---
 layout: default
 ---
-BIGPATENT: A Large-Scale Dataset for Abstractive and Coherent Summarization
-
 Most existing text summarization datasets are compiled from news domain, where the summaries have flattened discourse structure. Moreover, salient content often appears in the beginning of their articles and large segments from articles are present verbatim in their summaries. These issues impede the learning and evaluation of systems that can understand the input's global content structure as well as produce abstractive summaries with higher compression ratio. In this work, we present a novel dataset, BigPatent, consisting of 1.3 million records of U.S. patent documents along with human written abstractive summaries. 
 
 Compared to existing summarization datasets, BigPatent has the following properties:

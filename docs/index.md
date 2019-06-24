@@ -14,7 +14,7 @@ We train and evaluate baselines and popular learning models on BIGPATENT to shed
 ## Publication(s)
 * Eva Sharma, Chen Li and Lu Wang. 2019. BIGPATENT: A Large-Scale Dataset for Abstractive and Coherent Summarization. _In Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics_. 
 
-#### Stay tuned for downloadables!!!
+#### Stay tuned for more updates!!!
 
 
 
